@@ -14,8 +14,13 @@ Este curso supone una introducción avanzada en el lenguaje de programación R. 
 El curso se desarrollará en 5 sesiones de 2:30 y 2:00 horas, siguiendo principalmente ejemplos prácticos para introducir los conceptos de cada sesión.
 
 Sesión 1: Introducción al lenguaje R. R y Rstudio. Proyectos. Buenas prácticas en programación. 
+
 Sesión 2: Estructuras de datos en R. Lectura y escritura.
+
 Sesión 3: Visualización de datos con ggplot2.
+
 Sesiones 4 y 5: Gestión y tratamiento de datos. Fundamentos de tidyverse.
+
 Sesión 6: Programación, estructuras de control, creación de funciones.
+
 Sesiones 7 y 8: Análisis estadísticos univariantes.
